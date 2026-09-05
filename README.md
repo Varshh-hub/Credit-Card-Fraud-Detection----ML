@@ -86,4 +86,4 @@ This project demonstrates how **Logistic Regression** can be applied to credit c
 
 **Varsha**
 
-B.Sc. Artificial Intelligence & Machine Learning
+AI & ML Graduate | Junior Data Scientist & Machine Learning Engineer | Python | SQL | Excel | Power BI | Prompt Engineer | Front-End Developer
